@@ -126,22 +126,7 @@ The goal of this repository is to build a strong foundation in NLP while impleme
 
 ---
 
-# 📂 Repository Structure
 
-```bash
-NLP/
-│
-├── 01_Text_Preprocessing/
-├── 02_Feature_Engineering/
-├── 03_Word_Embeddings/
-├── 04_Machine_Learning/
-├── 05_Deep_Learning/
-├── 06_Transformers/
-├── 07_Projects/
-├── Datasets/
-├── Notes/
-└── README.md
-```
 
 ---
 
